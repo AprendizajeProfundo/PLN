@@ -6,6 +6,7 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 ## Introducción
 
 - Procesamiento de Lenguaje Natural
+
   - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
   - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - [Aprendizaje Profundo para datos textuales: word2vec](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
@@ -18,6 +19,7 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 ## Estado del Arte
 
 - Transformers
+
   - [Introducción a mecanismos de atención](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_Mecanismos_Atencion.ipynb)
   - [Mecanismos de atención ilustrado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Atencion_Ilustrado.ipynb)
   - [Transformers paso a paso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
