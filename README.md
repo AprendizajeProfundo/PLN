@@ -29,6 +29,9 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 
 ## Recursos
 
+- Presentaciones
+
+
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
 * [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
