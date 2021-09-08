@@ -27,6 +27,11 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
   - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
   - [Transformer Chatbot con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tpu_transformer_chatbot.ipynb)
 
+## Prácticas
+
+- [Preprocesamiento Básico](https://colab.research.google.com/drive/1Ns0deB7_2yr8PtRAeJwGOfkKfQg5IbXl?usp=sharing)
+
+
 ## Recursos
 
 - Presentaciones
