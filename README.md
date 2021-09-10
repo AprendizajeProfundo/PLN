@@ -30,7 +30,7 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 ## Prácticas
 
 - [Preprocesamiento Básico](https://colab.research.google.com/drive/1Ns0deB7_2yr8PtRAeJwGOfkKfQg5IbXl?usp=sharing)
-
+- [Aplicaciones del Lenguaje Natural]()
 
 ## Recursos
 
