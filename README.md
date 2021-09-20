@@ -7,12 +7,15 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 
 - Cursillo
  
-  - [Introducción al Procesamiento de lenguaje Naturual](
+  - [Introducción al procesamiento de lenguaje naturual](
 https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_01_01_introduccion.ipynb)
   - [Embeddings clásicos y clasificación de textos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_02_01_embeddings.ipynb)
   - [Atención es todo los que necesitamos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_04_Presentacion.ipynb) 
-  - [Transformers la revolución]()
+  - [Transformers: la revolución y estado actual](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_05_Presentacion.ipynb)
 
+- Conferencia
+
+ - [Inteligencia Artificial. Claves de su desarrollo]()
 ## Introducción
 
 - Procesamiento de Lenguaje Natural
