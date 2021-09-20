@@ -6,10 +6,12 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 ## Simposio de Estadística
 
 - Cursillo
-- 
+ 
   - [Introducción al Procesamiento de lenguaje Naturual](
 https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_01_01_introduccion.ipynb)
   - [Embeddings clásicos y clasificación de textos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_02_01_embeddings.ipynb)
+  - [Atención es todo los que necesitamos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_04_Presentacion.ipynb) 
+  - [Transformers la revolución]()
 
 ## Introducción
 
