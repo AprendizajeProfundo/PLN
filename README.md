@@ -15,8 +15,10 @@ https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaci
 
 - Conferencia
 
- - [Inteligencia Artificial. Claves de su desarrollo]()
-## Introducción
+ - [Inteligencia Artificial. Claves de su desarrollo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/ap_IA_Estado_Arte.ipynb)
+
+
+## Minicurso NLP
 
 - Procesamiento de Lenguaje Natural
 
