@@ -4,11 +4,12 @@
 Este es un repositorio para introducir a todos aquellos interesados en el procesamiento de lenguaje natural (PLN)
 
 ## Simposio de Estadística
-- Cursillo
-  [Introducción al Procesamiento de lenguaje Naturual](
-https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_01_01_introduccion.ipynb)
 
-- [Embeddings clásicos y clasificación de textos] 
+- Cursillo
+- 
+  - [Introducción al Procesamiento de lenguaje Naturual](
+https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_01_01_introduccion.ipynb)
+  - [Embeddings clásicos y clasificación de textos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaciones/pln_sesion_02_01_embeddings.ipynb)
 
 ## Introducción
 
