@@ -46,7 +46,7 @@ https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Presentaci
 
 - [Preprocesamiento Básico](https://colab.research.google.com/drive/1Ns0deB7_2yr8PtRAeJwGOfkKfQg5IbXl?usp=sharing)
 - [Aplicaciones del Lenguaje Natural](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb#Aprendizaje-Supervisado)
-- [Modelo preentrenado fastText](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_3_NLP.ipynb)
+- [Modelo preentrenado FastText](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_3_NLP.ipynb)
 - [Chatbot - Wago V1](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Chatbot/Wago_v1.ipynb)
 
 ## Recursos
