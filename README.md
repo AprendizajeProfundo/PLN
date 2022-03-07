@@ -3,6 +3,9 @@
 
 Este es un repositorio para introducir a todos aquellos interesados en el procesamiento de lenguaje natural (PLN)
 
+# Syllabus Curso PLN- UNAL
+- Syllabus [Github](https://github.com/AprendizajeProfundo/PLN/blob/main/Cuadernos/PLN_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/PLN_Syllabus_UNAL.ipynb)
+
 ## Simposio de Estadística
 
 - Cursillo
