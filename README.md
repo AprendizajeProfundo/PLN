@@ -13,7 +13,7 @@ Este es un repositorio para introducir a todos aquellos interesados en el proces
 
 
 ## Horarios
-Fecha: marzo 7 de 2022 - julio 2 de 2022
+Fecha: agosto 1 de 2022 - noviembre 30 de 2022
 (lunes, miercoles)
 Horario: 11-13 am (hora de Colombia)
 
